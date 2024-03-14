@@ -1,0 +1,7 @@
+/.vscode
+/VendingMachine/bin
+/VendingMachine/obj
+*.csproj
+/VendingMachine.Tests/bin
+/VendingMachine.Tests/obj
+*.sln
